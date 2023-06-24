@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectángulo_11" x="1631" y="910" width="246" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_11-2" x="73" y="580" width="246" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_11-3" x="72" y="986" width="246" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectángulo_2" data-name="Rectángulo 2" transform="translate(19 17)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1880" height="196" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1879" height="195" fill="none"/>
+    </g>
+    <line id="Línea_3" data-name="Línea 3" x2="1880" transform="translate(19.5 148.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="DigitalHouse_" data-name="DigitalHouse&gt;" transform="translate(52 95)" fill="red" font-size="38" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Digital</tspan><tspan y="0" fill="#707070">House&gt;</tspan></text>
+    <g id="Componente_2_1" data-name="Componente 2 – 1" transform="translate(52 168)">
+      <text id="Módulos" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Módulos</tspan></text>
+    </g>
+    <g id="Componente_2_2" data-name="Componente 2 – 2" transform="translate(195 168)">
+      <text id="Contenido" transform="translate(0 19)" fill="red" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Contenido</tspan></text>
+    </g>
+    <g id="Componente_2_3" data-name="Componente 2 – 3" transform="translate(355 168)">
+      <text id="Clases_en_vivo" data-name="Clases en vivo" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Clases en vivo</tspan></text>
+    </g>
+    <g id="Componente_2_4" data-name="Componente 2 – 4" transform="translate(552 168)">
+      <text id="Proyecto_integrador" data-name="Proyecto integrador" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Proyecto integrador</tspan></text>
+    </g>
+    <g id="Componente_2_5" data-name="Componente 2 – 5" transform="translate(803 168)">
+      <text id="Info_del_curso" data-name="Info del curso" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Info del curso</tspan></text>
+    </g>
+    <g id="Rectángulo_3" data-name="Rectángulo 3" transform="translate(1582 48)" fill="#e8e8e8" stroke="#707070" stroke-width="1">
+      <rect width="67" height="67" stroke="none"/>
+      <rect x="0.5" y="0.5" width="66" height="66" fill="none"/>
+    </g>
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(1668 48)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+      <circle cx="33.5" cy="33.5" r="33" fill="none"/>
+    </g>
+    <g id="Componente_2_6" data-name="Componente 2 – 6" transform="translate(1775 70)">
+      <text id="Hernán" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Hernán</tspan></text>
+    </g>
+    <rect id="Rectángulo_4" data-name="Rectángulo 4" width="153" height="9" transform="translate(169 204)" fill="red"/>
+    <g id="Componente_2_7" data-name="Componente 2 – 7" transform="translate(52 259)">
+      <text id="Inicio_Contenido" data-name="Inicio &gt; Contenido" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Inicio &gt; Contenido</tspan></text>
+    </g>
+    <g id="Rectángulo_5" data-name="Rectángulo 5" transform="translate(52 335)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="372" height="710" stroke="none"/>
+      <rect x="0.5" y="0.5" width="371" height="709" fill="none"/>
+    </g>
+    <g id="Rectángulo_6" data-name="Rectángulo 6" transform="translate(461 335)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1439" height="49" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1438" height="48" fill="none"/>
+    </g>
+    <g id="Rectángulo_7" data-name="Rectángulo 7" transform="translate(461 408)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1438" height="565" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1437" height="564" fill="none"/>
+    </g>
+    <g id="Rectángulo_8" data-name="Rectángulo 8" transform="translate(492 487)" fill="#e8e8e8" stroke="#707070" stroke-width="1">
+      <rect width="1376" height="416" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1375" height="415" fill="none"/>
+    </g>
+    <g id="Componente_3_2" data-name="Componente 3 – 2" transform="translate(461 996)">
+      <g id="Rectángulo_9" data-name="Rectángulo 9" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="1439" height="49" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1438" height="48" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_10" data-name="Rectángulo 10" transform="translate(540 523)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1280" height="380" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1279" height="379" fill="none"/>
+    </g>
+    <line id="Línea_4" data-name="Línea 4" x2="371" transform="translate(52.5 384.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_5" data-name="Línea 5" x2="372" transform="translate(52.5 487.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_6" data-name="Línea 6" x2="371" transform="translate(52.5 905.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Componente_2_8" data-name="Componente 2 – 8" transform="translate(304 348)">
+      <text id="Ocultar_" data-name="Ocultar &lt;&lt;" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Ocultar &lt;&lt;</tspan></text>
+    </g>
+    <g id="Componente_2_9" data-name="Componente 2 – 9" transform="translate(98 409)">
+      <text id="Full_Stack_Node_-_CNXX_Wireframing_" data-name="Full Stack Node - CNXX
+Wireframing " transform="translate(140 23)" fill="#707070" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-139.606" y="0">Full Stack Node - CNXX</tspan><tspan font-size="20" font-family="LucidaSans, Lucida Sans" font-weight="400"><tspan x="-62.231" y="25">Wireframing </tspan></tspan></text>
+    </g>
+    <g id="Componente_2_10" data-name="Componente 2 – 10" transform="translate(475 348)">
+      <text id="_Clase_anterior" data-name="&lt; Clase anterior" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">&lt; Clase anterior</tspan></text>
+    </g>
+    <g id="Componente_2_11" data-name="Componente 2 – 11" transform="translate(1775 348)">
+      <text id="Siguiente_" data-name="Siguiente &gt;" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Siguiente &gt;</tspan></text>
+    </g>
+    <g id="Componente_4_1" data-name="Componente 4 – 1" transform="translate(82 510)">
+      <g id="Elipse_2" data-name="Elipse 2" stroke="#707070" stroke-width="1">
+        <circle cx="26.5" cy="26.5" r="26.5" stroke="none"/>
+        <circle cx="26.5" cy="26.5" r="26" fill="none"/>
+      </g>
+    </g>
+    <g id="Componente_4_2" data-name="Componente 4 – 2" transform="translate(82 916)">
+      <g id="Elipse_2-2" data-name="Elipse 2" stroke="#707070" stroke-width="1">
+        <circle cx="26.5" cy="26.5" r="26.5" stroke="none"/>
+        <circle cx="26.5" cy="26.5" r="26" fill="none"/>
+      </g>
+    </g>
+    <g id="Componente_5_1" data-name="Componente 5 – 1" transform="translate(1640 916)">
+      <g transform="matrix(1, 0, 0, 1, -1640, -916)" filter="url(#Rectángulo_11)">
+        <g id="Rectángulo_11-4" data-name="Rectángulo 11" transform="translate(1640 916)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="228" height="44" rx="22" stroke="none"/>
+          <rect x="0.5" y="0.5" width="227" height="43" rx="21.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Descargar" transform="translate(66 30)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Descargar</tspan></text>
+    </g>
+    <g id="Componente_6_1" data-name="Componente 6 – 1" transform="translate(82 586)">
+      <g id="Componente_5_2" data-name="Componente 5 – 2">
+        <g transform="matrix(1, 0, 0, 1, -82, -586)" filter="url(#Rectángulo_11-2)">
+          <g id="Rectángulo_11-5" data-name="Rectángulo 11" transform="translate(82 586)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="228" height="44" rx="22" stroke="none"/>
+            <rect x="0.5" y="0.5" width="227" height="43" rx="21.5" fill="none"/>
+          </g>
+        </g>
+        <text id="_27_de_Agosto" data-name="27 de Agosto" transform="translate(49 30)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">27 de Agosto</tspan></text>
+      </g>
+    </g>
+    <g id="Componente_5_2-2" data-name="Componente 5 – 2" transform="translate(81 992)">
+      <g transform="matrix(1, 0, 0, 1, -81, -992)" filter="url(#Rectángulo_11-3)">
+        <g id="Rectángulo_11-6" data-name="Rectángulo 11" transform="translate(81 992)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="228" height="44" rx="22" stroke="none"/>
+          <rect x="0.5" y="0.5" width="227" height="43" rx="21.5" fill="none"/>
+        </g>
+      </g>
+      <text id="_30_de_Agosto" data-name="30 de Agosto" transform="translate(49 30)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">30 de Agosto</tspan></text>
+    </g>
+    <g id="Componente_7_2" data-name="Componente 7 – 2" transform="translate(92 726)">
+      <g id="Componente_4_3" data-name="Componente 4 – 3">
+        <g id="Elipse_2-3" data-name="Elipse 2" fill="none" stroke="#000" stroke-width="1">
+          <circle cx="17" cy="17" r="17" stroke="none"/>
+          <circle cx="17" cy="17" r="16.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Componente_7_1" data-name="Componente 7 – 1" transform="translate(92 661)">
+      <g id="Componente_4_3-2" data-name="Componente 4 – 3">
+        <g id="Elipse_2-4" data-name="Elipse 2" stroke="#707070" stroke-width="1">
+          <circle cx="17" cy="17" r="17" stroke="none"/>
+          <circle cx="17" cy="17" r="16.5" fill="none"/>
+        </g>
+      </g>
+      <circle id="Elipse_3" data-name="Elipse 3" cx="9.5" cy="9.5" r="9.5" transform="translate(8 8)" fill="#fff"/>
+    </g>
+    <g id="Componente_7_3" data-name="Componente 7 – 3" transform="translate(92 791)">
+      <g id="Componente_4_3-3" data-name="Componente 4 – 3">
+        <g id="Elipse_2-5" data-name="Elipse 2" fill="none" stroke="#000" stroke-width="1">
+          <circle cx="17" cy="17" r="17" stroke="none"/>
+          <circle cx="17" cy="17" r="16.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Componente_7_4" data-name="Componente 7 – 4" transform="translate(92 856)">
+      <g id="Componente_4_3-4" data-name="Componente 4 – 3">
+        <g id="Elipse_2-6" data-name="Elipse 2" fill="none" stroke="#000" stroke-width="1">
+          <circle cx="17" cy="17" r="17" stroke="none"/>
+          <circle cx="17" cy="17" r="16.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Componente_2_12" data-name="Componente 2 – 12" transform="translate(151 517)">
+      <text id="Clase_sincrónica:_lorem_ipsum_dolor_sit_amet" data-name="Clase sincrónica: lorem
+ipsum dolor sit amet" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">Clase sincrónica: lorem</tspan><tspan x="0" y="24">ipsum dolor sit amet</tspan></text>
+    </g>
+    <g id="Componente_2_13" data-name="Componente 2 – 13" transform="translate(151 667)">
+      <text id="Ejercitación" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">Ejercitación</tspan></text>
+    </g>
+    <g id="Componente_2_14" data-name="Componente 2 – 14" transform="translate(151 732)">
+      <text id="Tema_1" data-name="Tema 1" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Tema 1</tspan></text>
+    </g>
+    <g id="Componente_2_15" data-name="Componente 2 – 15" transform="translate(151 797)">
+      <text id="Tema_2" data-name="Tema 2" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Tema 2</tspan></text>
+    </g>
+    <g id="Componente_2_16" data-name="Componente 2 – 16" transform="translate(147 862)">
+      <text id="Tema_3" data-name="Tema 3" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Tema 3</tspan></text>
+    </g>
+    <g id="Componente_2_17" data-name="Componente 2 – 17" transform="translate(151 919)">
+      <text id="Clase_sincrónica:_lorem_ipsum_dolor_sit_amet-2" data-name="Clase sincrónica: lorem
+ipsum dolor sit amet" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans-Demi, Lucida Sans" font-weight="300"><tspan x="0" y="0">Clase sincrónica: lorem</tspan><tspan x="0" y="24">ipsum dolor sit amet</tspan></text>
+    </g>
+    <g id="Componente_2_18" data-name="Componente 2 – 18" transform="translate(492 437)">
+      <text id="Ejercitación-2" data-name="Ejercitación" transform="translate(71 23)" fill="#707070" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-70.862" y="0">Ejercitación</tspan></text>
+    </g>
+    <g id="Componente_2_19" data-name="Componente 2 – 19" transform="translate(475 348)">
+      <text id="_Clase_anterior-2" data-name="&lt; Clase anterior" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">&lt; Clase anterior</tspan></text>
+    </g>
+    <g id="Componente_2_20" data-name="Componente 2 – 20" transform="translate(1775 348)">
+      <text id="Siguiente_2" data-name="Siguiente &gt;" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Siguiente &gt;</tspan></text>
+    </g>
+    <g id="Componente_2_21" data-name="Componente 2 – 21" transform="translate(477 1009)">
+      <text id="_Clase_anterior-3" data-name="&lt; Clase anterior" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">&lt; Clase anterior</tspan></text>
+    </g>
+    <g id="Componente_2_22" data-name="Componente 2 – 22" transform="translate(1777 1009)">
+      <text id="Siguiente_3" data-name="Siguiente &gt;" transform="translate(0 19)" fill="#707070" font-size="20" font-family="LucidaSans, Lucida Sans"><tspan x="0" y="0">Siguiente &gt;</tspan></text>
+    </g>
+  </g>
+</svg>
